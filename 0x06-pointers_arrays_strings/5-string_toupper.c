@@ -1,12 +1,11 @@
 #include "main.h"
-
 /**
  * string_toupper - change lowercase to uppercase
- * @s: string to be converted
+ * @str: string to be converted
  * Return: string
  */
 
-char *string_toupper(char *s)
+char *string_toupper(char *str)
 {
 	int i;
 
